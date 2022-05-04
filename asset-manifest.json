@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-random-user-generator/static/css/main.4cb4ac57.css",
+    "main.js": "/react-random-user-generator/static/js/main.049ab80e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-random-user-generator/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/react-random-user-generator/index.html",
+    "main.4cb4ac57.css.map": "/react-random-user-generator/static/css/main.4cb4ac57.css.map",
+    "main.049ab80e.js.map": "/react-random-user-generator/static/js/main.049ab80e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-random-user-generator/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb4ac57.css",
+    "static/js/main.049ab80e.js"
+  ]
+}
